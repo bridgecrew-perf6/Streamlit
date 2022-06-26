@@ -7,7 +7,7 @@ import streamlit.components.v1 as stc
 import pandas as pd
 
 # Data Viz Packages
-import seaborn as sns
+#import seaborn as sns
 import matplotlib.pyplot as plt
 import matplotlib
 
